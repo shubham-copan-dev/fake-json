@@ -1,0 +1,384 @@
+{
+  "leadingIndicators": {
+    "toDisplay": true,
+    "cards": {
+      "name": "Aggregate List",
+      "id": "RR360_AGGREGATED_VALUES",
+      "toDisplay": true,
+      "value": [
+        {
+          "id": "total_product_tcv",
+          "name": "Total Product TCV",
+          "title": "Total Product TCV",
+          "helpKey": "Total_Product_TCV_WEEKLY",
+          "toDisplay": true,
+          "color": "#c58917",
+          "navigation": "rssSftBookingsSummary",
+          "territoryType": "WW_SALES",
+          "typeSign": "",
+          "childData": [
+            {
+              "id": "tcv",
+              "name": "TCV",
+              "title": "TCV",
+              "count": "0",
+              "territoryType": "WW_SALES",
+              "kValue": "$27000 K",
+              "mValue": "$27 M"
+            },
+            {
+              "id": "growth",
+              "name": "Growth",
+              "title": "Growth",
+              "territoryType": "WW_SALES",
+              "showArrow": "down",
+              "kValue": "-6.9%",
+              "mValue": "-6.9%"
+            },
+            {
+              "id": "forecast_attainment",
+              "name": "% Attainment of Forecast",
+              "title": "% Attainment of Forecast",
+              "territoryType": "WW_SALES",
+              "kValue": "48.4%",
+              "mValue": "48.4%"
+            },
+            {
+              "id": "plan_attainment",
+              "name": "% Attainment of Plan",
+              "title": "% Attainment of Plan",
+              "territoryType": "WW_SALES",
+              "kValue": "8.4%",
+              "mValue": "8.4%"
+            }
+          ]
+        },
+        {
+          "id": "Total_Reccuring_Revenue_Performance",
+          "name": "Total Reccuring Revenue Performance",
+          "title": "Software",
+          "helpKey": "Total_Reccuring_Revenue_Performance_WEEKLY",
+          "toDisplay": true,
+          "color": "#c58917",
+          "navigation": "rssSftBookingsSummary",
+          "territoryType": "WW_SALES",
+          "typeSign": "",
+          "childData": [
+            {
+              "id": "service_annual",
+              "name": "Service Annual",
+              "title": "Service Annual",
+              "toDisplay": true,
+              "exploreMoreFlag": true,
+              "childData": [
+                {
+                  "id": "tcv",
+                  "name": "TCV",
+                  "title": "TCV",
+                  "count": "0",
+                  "territoryType": "WW_SALES",
+                  "kValue": "$400,224 K",
+                  "mValue": "$400 M"
+                },
+                {
+                  "id": "growth",
+                  "name": "Growth",
+                  "title": "Growth",
+                  "territoryType": "WW_SALES",
+                  "showArrow": "down",
+                  "kValue": "-48.4%",
+                  "mValue": "-48.4%"
+                },
+                {
+                  "id": "forecast_attainment",
+                  "name": "% Attainment of Forecast",
+                  "title": "% Attainment of Forecast",
+                  "territoryType": "WW_SALES",
+                  "kValue": "48.4%",
+                  "mValue": "48.4%"
+                },
+                {
+                  "id": "plan_attainment",
+                  "name": "% Attainment of Plan",
+                  "title": "% Attainment of Plan",
+                  "territoryType": "WW_SALES",
+                  "kValue": "8.4%",
+                  "mValue": "8.4%"
+                }
+              ]
+            },
+            {
+              "name": "RSW Annual",
+              "title": "RSW Annual",
+              "toDisplay": true,
+              "typeSign": "+",
+              "exploreMoreFlag": true,
+              "childData": [
+                {
+                  "id": "tcv",
+                  "name": "TCV",
+                  "title": "TCV",
+                  "count": "0",
+                  "territoryType": "WW_SALES",
+                  "kValue": "$400,224 K",
+                  "mValue": "$400 M"
+                },
+                {
+                  "id": "growth",
+                  "name": "Growth",
+                  "title": "Growth",
+                  "territoryType": "WW_SALES",
+                  "showArrow": "down",
+                  "kValue": "-48.4%",
+                  "mValue": "-48.4%"
+                },
+                {
+                  "id": "forecast_attainment",
+                  "name": "% Attainment of Forecast",
+                  "title": "% Attainment of Forecast",
+                  "territoryType": "WW_SALES",
+                  "kValue": "48.4%",
+                  "mValue": "48.4%"
+                },
+                {
+                  "id": "plan_attainment",
+                  "name": "% Attainment of Plan",
+                  "title": "% Attainment of Plan",
+                  "territoryType": "WW_SALES",
+                  "kValue": "8.4%",
+                  "mValue": "8.4%"
+                }
+              ]
+            },
+            {
+              "id": "iacv_renewed_adjustments",
+              "name": "iACV, Renewed, Booking Adjustments",
+              "title": "iACV, Renewed, Booking Adjustments",
+              "toDisplay": true,
+              "typeSign": "=",
+              "exploreMoreFlag": true,
+              "childData": [
+                {
+                  "id": "iacv",
+                  "name": "iACV",
+                  "title": "iACV",
+                  "toDisplay": true,
+                  "typeSign": "",
+                  "exploreMoreFlag": true,
+                  "childData": [
+                    {
+                      "id": "tcv",
+                      "name": "TCV",
+                      "title": "TCV",
+                      "count": "0",
+                      "territoryType": "WW_SALES",
+                      "kValue": "$400,224 K",
+                      "mValue": "$400 M"
+                    },
+                    {
+                      "id": "growth",
+                      "name": "Growth",
+                      "title": "Growth",
+                      "territoryType": "WW_SALES",
+                      "showArrow": "down",
+                      "kValue": "-48.4%",
+                      "mValue": "-48.4%"
+                    },
+                    {
+                      "id": "forecast_attainment",
+                      "name": "% Attainment of Forecast",
+                      "title": "% Attainment of Forecast",
+                      "territoryType": "WW_SALES",
+                      "kValue": "48.4%",
+                      "mValue": "48.4%"
+                    },
+                    {
+                      "id": "plan_attainment",
+                      "name": "% Attainment of Plan",
+                      "title": "% Attainment of Plan",
+                      "territoryType": "WW_SALES",
+                      "kValue": "8.4%",
+                      "mValue": "8.4%"
+                    }
+                  ],
+                  "extraList": [
+                    {
+                      "id": "new_logo",
+                      "name": "New Logo",
+                      "title": "New Logo",
+                      "territoryType": "WW_SALES",
+                      "childData": [
+                        {
+                          "id": "sw",
+                          "name": "SW",
+                          "title": "SW",
+                          "territoryType": "WW_SALES",
+                          "kValue": "3000 k",
+                          "mValue": "3M"
+                        },
+                        {
+                          "id": "cx_svcs",
+                          "name": "CX Svcs",
+                          "title": "CX Svcs",
+                          "territoryType": "WW_SALES",
+                          "kValue": "500 k",
+                          "mValue": "0.5M"
+                        }
+                      ]
+                    },
+                    {
+                      "id": "upsell",
+                      "name": "Up-sell",
+                      "title": "Up-sell",
+                      "territoryType": "WW_SALES",
+                      "childData": [
+                        {
+                          "id": "sw",
+                          "name": "SW",
+                          "title": "SW",
+                          "territoryType": "WW_SALES",
+                          "kValue": "15000 k",
+                          "mValue": "1.5M"
+                        },
+                        {
+                          "id": "cx_svcs",
+                          "name": "CX Svcs",
+                          "title": "CX Svcs",
+                          "territoryType": "WW_SALES",
+                          "kValue": "13000 k",
+                          "mValue": "1.3M"
+                        }
+                      ]
+                    },
+                    {
+                      "id": "cross_sell",
+                      "name": "Cross-Sell",
+                      "title": "New Logo",
+                      "territoryType": "WW_SALES",
+                      "childData": [
+                        {
+                          "id": "sw",
+                          "name": "SW",
+                          "title": "SW",
+                          "territoryType": "WW_SALES",
+                          "kValue": "500 k",
+                          "mValue": "0.5M"
+                        },
+                        {
+                          "id": "cx_svcs",
+                          "name": "CX Svcs",
+                          "title": "CX Svcs",
+                          "territoryType": "WW_SALES",
+                          "kValue": "200 k",
+                          "mValue": "0.2M"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "renewed",
+                  "name": "$ Renewed",
+                  "title": "$ Renewed",
+                  "toDisplay": true,
+                  "typeSign": "+",
+                  "exploreMoreFlag": true,
+                  "childData": [
+                    {
+                      "id": "tcv",
+                      "name": "TCV",
+                      "title": "TCV",
+                      "count": "0",
+                      "territoryType": "WW_SALES",
+                      "kValue": "$400,224 K",
+                      "mValue": "$400 M"
+                    },
+                    {
+                      "id": "growth",
+                      "name": "Growth",
+                      "title": "Growth",
+                      "territoryType": "WW_SALES",
+                      "showArrow": "down",
+                      "kValue": "-48.4%",
+                      "mValue": "-48.4%"
+                    },
+                    {
+                      "id": "forecast_attainment",
+                      "name": "% Attainment of Forecast",
+                      "title": "% Attainment of Forecast",
+                      "territoryType": "WW_SALES",
+                      "kValue": "48.4%",
+                      "mValue": "48.4%"
+                    },
+                    {
+                      "id": "plan_attainment",
+                      "name": "% Attainment of Plan",
+                      "title": "% Attainment of Plan",
+                      "territoryType": "WW_SALES",
+                      "kValue": "8.4%",
+                      "mValue": "8.4%"
+                    }
+                  ],
+                  "extraList": [
+                    {
+                      "id": "sw",
+                      "name": "SW",
+                      "title": "SW",
+                      "territoryType": "WW_SALES",
+                      "kValue": "6000 k",
+                      "mValue": "6M"
+                    },
+                    {
+                      "id": "cx_svcs",
+                      "name": "CX Svcs",
+                      "title": "CX Svcs",
+                      "territoryType": "WW_SALES",
+                      "kValue": "5000 k",
+                      "mValue": "5M"
+                    }
+                  ]
+                },
+                {
+                  "id": "iacv_adjustments",
+                  "name": "iACV Adjustments",
+                  "title": "iACV Adjustments",
+                  "toDisplay": true,
+                  "typeSign": "+",
+                  "exploreMoreFlag": true,
+                  "childData": [
+                    {
+                      "id": "iacv_djustments_and_bookings",
+                      "name": "iACV Adjustments and Bookings",
+                      "title": "iACV Adjustments and Bookings",
+                      "count": "0",
+                      "territoryType": "WW_SALES",
+                      "kValue": "$400,224 K",
+                      "mValue": "$400 M"
+                    },
+                    {
+                      "id": "iacv_adjustments",
+                      "name": "iacv Adjustments",
+                      "title": "iacv Adjustments",
+                      "territoryType": "WW_SALES",
+                      "showArrow": "down",
+                      "kValue": "-48.4%",
+                      "mValue": "-48.4%"
+                    },
+                    {
+                      "id": "bookings",
+                      "name": "Bookings",
+                      "title": "Bookings",
+                      "territoryType": "WW_SALES",
+                      "kValue": "48.4%",
+                      "mValue": "48.4%"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  }
+}
